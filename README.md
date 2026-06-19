@@ -94,10 +94,10 @@ Color thresholds were experimentally calibrated to reliably distinguish between 
 
 ## Authors
 
-Akshat Kashyap
-Saarthak Singh
-Karan Kandpal
-Pranava Sworup
-Puttaraja Beedinalmath
-Anirudh Rao
-Tarun RS
+* Akshat Kashyap
+* Saarthak Singh
+* Karan Kandpal
+* Pranava Sworup
+* Puttaraja Beedinalmath
+* Anirudh Rao
+* Tarun RS
